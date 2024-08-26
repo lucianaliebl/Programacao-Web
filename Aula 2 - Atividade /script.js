@@ -1,3 +1,4 @@
+//Atividade 1 - if e else
 var botao = document.getElementById('verificaButton');
 
 //criando evento 
