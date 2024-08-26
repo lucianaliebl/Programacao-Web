@@ -6,7 +6,6 @@ botao.onclick = function(){
     // console .log(idade);  //serve para acompanhar para verificar se está funcionando 
 
     var idade = 2024 - anoNascimento
-   // document.write(`Sua idade é ${idade}`);
     
     var resultado = document.getElementById('idade'); //precisa criar "resultado" no html
 
